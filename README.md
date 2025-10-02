@@ -27,7 +27,6 @@ This project also integrates with **MySQL** for user management and uses **OTP-b
 - File encryption before storing in database  
 ---
 
-👩‍💻 Developed by **Somya Saxena**
 
 
 
