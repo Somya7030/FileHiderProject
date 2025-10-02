@@ -16,7 +16,7 @@ public class Welcome {
         int choice = 0;
 
         while (true) {
-            System.out.println("\n=== Welcome to File Enc App ===");
+            System.out.println("\n=== Welcome to File Enc Dashboard===");
             System.out.println("1️⃣  Login");
             System.out.println("2️⃣  Signup");
             System.out.println("0️⃣  Exit");
